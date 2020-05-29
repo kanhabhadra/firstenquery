@@ -1,0 +1,106 @@
+.bc{
+	background-color:#251d5a;
+}
+.m{
+ background-color:green;
+ border-radius: 50%;
+ padding:10px;
+}
+
+.divf{
+	display:flex;
+	align-items:center;
+}
+.cont3{
+	background-color:#f6f5fd;
+}
+.border:hover{
+	background:#4ab917;
+	color:white ! important;
+}
+.boxes2{
+	font-weight:bold;
+	font-size:16px;
+}
+.boxes1{
+	font-weight:bold;
+	font-size:16px;
+}
+.cicon{
+	color:#15a0d6;
+}
+.p{
+	text-align:justify;
+}
+.cicon1{
+	padding:10px;
+	border-radius:50%;
+	background-color:yellow;
+	color:white;
+}
+.cont6{
+	line-height:30px;
+}
+.cont7d{
+	background:url("man.jpg") no-repeat center;
+	padding:120px 0px;
+}
+.cont7d1{
+	padding:120px 0px;
+}
+.slider-area{
+	background:white;
+	padding:50px 0px;
+	position:relative;
+}
+.img-area{
+	width:200px;
+	height:200px;
+	border:2px solid gray;
+	border-radius:50%;
+}
+.img-area .round{
+	border-radius:50%;
+}
+.ka{
+	background-color:gray;
+	padding:20px;
+	border-radius:50%;
+}
+.ga{
+	margin-top:80px;
+}
+.foot{
+	background-color:#2a2742;
+}
+.footicon{
+	padding:10px;
+	border-radius:50%;
+	border:1px solid gray;
+	margin:5px;
+}
+.footicon:hover{
+	background-color:#0dd876;
+	color:white;
+}
+.fdiv{
+	display:flex;
+	align-items:center
+}
+.fanchr{
+	color:black;
+}
+.fanchr:hover{
+	text-decoration:none;
+	color:#1c83d5;
+}
+.sanchr{
+	color:black;
+}
+.anchr{
+	color:gray;
+}
+.anchr:hover{
+	text-decoration:none;
+	color:white;
+}
